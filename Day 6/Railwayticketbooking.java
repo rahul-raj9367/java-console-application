@@ -1,6 +1,4 @@
-/*
 
-*/
 import java.util.*;
 class Ticket{
 	String name;
